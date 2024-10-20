@@ -1,0 +1,2 @@
+1. s=c*log(1+r) ,c=constant r=intensity value
+2. s=cr^gamma ->power formula
